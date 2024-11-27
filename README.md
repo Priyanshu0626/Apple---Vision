@@ -14,10 +14,8 @@ HTML5
 CSS3
 JavaScript
 Installation
-Clone the repository: https://github.com/Kunika0418/Apple-vision
+Clone the repository:https://github.com/Priyanshu0626/Apple---Vision
 Open index.html in your web browser.
 Now, go live.
 Usage
 Simply navigate through the different pages using the navigation bar and interact with the various elements to experience the functionality.
-
-Screenshots
