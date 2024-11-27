@@ -9,13 +9,16 @@ Responsive design that adapts to different screen sizes.
 Use of modern CSS techniques for styling.
 Interactive elements powered by JavaScript.
 Smooth navigation and user experience.
+
 Technologies Used
 HTML5
 CSS3
 JavaScript
+
 Installation
 Clone the repository:https://github.com/Priyanshu0626/Apple---Vision
 Open index.html in your web browser.
 Now, go live.
+
 Usage
 Simply navigate through the different pages using the navigation bar and interact with the various elements to experience the functionality.
